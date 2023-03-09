@@ -1,0 +1,15 @@
+/Users/mak/Projects/matricha/matricha/bin/Debug/net7.0/matricha
+/Users/mak/Projects/matricha/matricha/bin/Debug/net7.0/matricha.deps.json
+/Users/mak/Projects/matricha/matricha/bin/Debug/net7.0/matricha.runtimeconfig.json
+/Users/mak/Projects/matricha/matricha/bin/Debug/net7.0/matricha.dll
+/Users/mak/Projects/matricha/matricha/bin/Debug/net7.0/matricha.pdb
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.csproj.AssemblyReference.cache
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.AssemblyInfoInputs.cache
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.AssemblyInfo.cs
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.dll
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/refint/matricha.dll
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.pdb
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/matricha.genruntimeconfig.cache
+/Users/mak/Projects/matricha/matricha/obj/Debug/net7.0/ref/matricha.dll
